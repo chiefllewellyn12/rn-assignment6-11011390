@@ -37,9 +37,10 @@
 # Screenshot of pages
 
 ## Product list page
+![cloth](https://github.com/chiefllewellyn12/rn-assignment6-11011390/assets/170211843/fee35ae4-bd1e-4a76-9b4d-44b03947698a)
 
-![products page](clothingApp/assets/cloth.jpg)
 
 ## Checkout Page
+![cloth 2](https://github.com/chiefllewellyn12/rn-assignment6-11011390/assets/170211843/e252b8b7-d111-4a07-aeb4-ac4adef01f5b)
 
-![checkout page](<clothingApp/assets/cloth 2.jpg>)
+
